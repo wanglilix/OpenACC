@@ -1,0 +1,2 @@
+pgcpp acc_c1.cpp -o acc_c1
+pgcpp test.cpp -acc -ta=nvidia -Minfo=accel -o test
